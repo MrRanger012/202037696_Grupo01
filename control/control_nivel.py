@@ -21,3 +21,4 @@ def alarma(temp_actual):
     if temp_actual > 90:
         return "ALARMA: revisar enfriamiento"
     return "OK"
+    
